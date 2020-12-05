@@ -6,7 +6,7 @@
     * Points: joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
 
 * Every turn you first discard, then you draw the top card from the deck.
-    * if you draw a card from the deck that is the same as the oneoyu just discarded, you can discard it 'for free' as long as the next person hasn't played yet (this speeds things up).
+    * if you draw a card from the deck that is the same as the one you just discarded, you can discard it 'for free' as long as the next person hasn't played their turn yet (this speeds things up).
     * You are also allowed to pick the top card on the discard pile. 
 
 * You can discard two or more of the same value (doubles, triples, etc: ♣️9 + ♥️9 + ...)
