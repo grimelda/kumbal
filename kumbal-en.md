@@ -21,4 +21,4 @@
 
 * if you have 7 or fewer points at the beginning of your round, you can call "Kumball". If you indeed have the fewest amount of points, you win and get 0 points, the rest gets the amount of points in hand. If someone else has even fewer points, the one who called Kumball gets the amount of points in hand plus 25 penalty points. 
 
-\* You can also play with 5 cards in hand and a goal of 5 points or fewer, to make the game faster and this is better for groups of six or larger
+\* *You can also play with 5 cards in hand and a goal of 5 points or fewer, to make the game faster and this is better for groups of six or larger.*
