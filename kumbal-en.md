@@ -16,11 +16,11 @@
 * Special "pest" cards have additional powers: 
     * 7: reverse order. If played, the game order is reversed.
     * 8: next person is skipped
-    * 2: next person to pick 2 (unless they can also discard a 2 or joker, then the amount of picks add up)
+    * 2: next person to pick 2 (unless they can also discard a 2 or joker, then the amount of to-be-drawn cards add up)
     * joker: next person to pick 5 (unless they can also discard a 2 or joker, then the number of to-be-drawn cards add up)
 
-* If you have 7 or fewer points at the beginning of your round, you can call "Kumbal". If you indeed have the fewest amount of points, you win and get 0 points, the rest gets the amount of points in hand. 
-    * If someone else has even fewer points, the one who called Kumball gets the amount of points in hand plus 25 penalty points. 
+* If you have 7 or fewer points at the beginning of your round, you can call "Kumbal". If you indeed have the fewest amount of points in hand, you win and get 0 penalty points, the rest gets the amount of penalty points held in hand. 
+    * If another player has fewer points than the player who calls Kumbal, the one who called Kumbal gets the amount of points in hand plus 25 penalty points. 
 
 * At the end of each round, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points.
