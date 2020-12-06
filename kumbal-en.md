@@ -19,6 +19,12 @@
     * 2: next person to pick 2 (unless they can also discard a 2 or joker, then the amount of picks add up)
     * joker: next person to pick 5 (unless they can also discard a 2 or joker, then the number of to-be-drawn cards add up)
 
-* if you have 7 or fewer points at the beginning of your round, you can call "Kumball". If you indeed have the fewest amount of points, you win and get 0 points, the rest gets the amount of points in hand. If someone else has even fewer points, the one who called Kumball gets the amount of points in hand plus 25 penalty points. 
+* If you have 7 or fewer points at the beginning of your round, you can call "Kumbal". If you indeed have the fewest amount of points, you win and get 0 points, the rest gets the amount of points in hand. 
+    * If someone else has even fewer points, the one who called Kumball gets the amount of points in hand plus 25 penalty points. 
+
+* At the end of each round, all players scores are recorded and added up.
+    * The game ends when one person's penalty score surpasses 100 points
+    * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0
+    * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50
 
 \* *You can also play with 5 cards in hand and a goal of 5 points or fewer, to make the game faster and this is better for groups of six or larger.*
