@@ -9,9 +9,9 @@
     * if you draw a card from the deck that is the same as the one you just discarded, you can discard it 'for free' as long as the next person hasn't played their turn yet (this speeds things up).
     * You are also allowed to pick the top card on the discard pile. 
 
-* You can discard two or more of the same value (doubles, triples, etc: ♣️9 + ♥️9 + ...)
+* You can discard two or more of the same value (doubles, triples, etc: ♣️9 + ♥️9 + ...).
 
-* You can discard 3 or more of a series in the same suit (♣️4, ♣️5, ♣️6, ...)
+* You can discard 3 or more of a series in the same suit (♣️4, ♣️5, ♣️6, ...).
 
 * Special "pest" cards have additional powers: 
     * 7: reverse order. If played, the game order is reversed.
@@ -23,8 +23,8 @@
     * If someone else has even fewer points, the one who called Kumball gets the amount of points in hand plus 25 penalty points. 
 
 * At the end of each round, all players scores are recorded and added up.
-    * The game ends when one person's penalty score surpasses 100 points
-    * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0
-    * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50
+    * The game ends when one person's penalty score surpasses 100 points.
+    * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0.
+    * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
 
 \* *You can also play with 5 cards in hand and a goal of 5 points or fewer, to make the game faster and this is better for groups of six or larger.*
