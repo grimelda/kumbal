@@ -27,4 +27,6 @@
     * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0.
     * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
 
+* To speed up the gane even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead.
+
 \* *You can also play with 5 cards in hand and a goal of 5 points or fewer, to make the game faster and this is better for groups of six or larger.*
