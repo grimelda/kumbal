@@ -13,11 +13,13 @@
 
 * You can discard 3 or more of a series in the same suit (♣️4, ♣️5, ♣️6, ...).
 
-* Special "pest" cards have additional powers: 
+* Special "action" cards have additional powers: 
     * 7: reverse order. If played, the game order is reversed.
     * 8: next person is skipped
     * 2: next person to pick 2 (unless they can also discard a 2 or joker, then the amount of to-be-drawn cards add up)
     * joker: next person to pick 5 (unless they can also discard a 2 or joker, then the number of to-be-drawn cards add up)
+
+* When cards are played as an action card, they cannot be picked up from the discard pile, the following player has to pick from the deck.
 
 * If you have 7 or fewer points at the beginning of your round, you can call "Kumbal". If you indeed have the fewest amount of points in hand, you win and get 0 penalty points, the rest gets the amount of penalty points held in hand. 
     * If another player has fewer points than the player who calls Kumbal, the one who called Kumbal gets the amount of points in hand plus 25 penalty points. 
