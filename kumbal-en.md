@@ -7,7 +7,7 @@
 
 * Every turn you first discard, then you draw the top card from the deck.
     * if you draw a card from the deck that is the same as the one you just discarded, you can discard it 'for free' as long as the next person hasn't played their turn yet (this speeds things up).
-    * You are also allowed to pick the top card on the discard pile. 
+    * You are also allowed to pick the top card from the discard pile (not the case for jokers, they are lost when played). 
 
 * You can discard two or more of the same value (doubles, triples, etc: ♣️9 + ♥️9 + ...).
 
