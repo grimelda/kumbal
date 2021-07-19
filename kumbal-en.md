@@ -20,7 +20,7 @@
 
 * At the end of each round, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points.
-    * If a player's score reaches 51 points exactly, their score is reduced by 49 points to 0.
+    * If a player's score reaches 51 points exactly, their score is reduced by 51 points to 0.
     * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
 
 * To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead.
