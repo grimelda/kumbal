@@ -20,8 +20,10 @@
 
 * At the end of each round, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points.
-    * If a player's score reaches 51 points exactly, their score is reduced by 51 points to 0.
+    * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0.
     * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
+    * This increments for 149, 199, 249, 299 points etc each get reduced by 29 points. 
+    * side note: it is theoretically possible to get to 99 points, have your number of points reduced by 49 to 50, lose the following round with a single joker in hand (-1 point) and then achieve 49 points, which brings you back to zero points. Whether this situation has actually been achieved remains hearsay.
 
 * To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead.
 
