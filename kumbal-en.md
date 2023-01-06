@@ -1,6 +1,6 @@
 # gameplay
 
-* Each player gets 7 cards from the deck at the beginning of the game\*, and to start the game the top card on the deck is placed face up on the discard pile.
+* Each player gets 7\* cards from the deck at the beginning of the game, and to start the game the top card on the deck is placed face up on the discard pile.
 
 * The objective is to discard as many points as possible and end up with 7 or fewer points in your hand.
     * Points: joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
@@ -33,4 +33,4 @@
     * 2: next person to pick 2 (unless they can also discard a 2 or joker, then the amount of to-be-drawn cards add up)
     * joker: next person to pick 5 (unless they can also discard a 2 or joker, then the number of to-be-drawn cards add up)
 
-\* *You can also play with 5 cards in hand and a goal of 5 points or fewer, to make the game faster and this is better for groups of five or larger.*
+/*   *You can also play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for groups of five or larger)*
