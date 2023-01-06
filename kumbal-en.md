@@ -33,4 +33,4 @@
     * 2: next person to pick 2 (unless they can also discard a 2 or joker, then the amount of to-be-drawn cards add up)
     * joker: next person to pick 5 (unless they can also discard a 2 or joker, then the number of to-be-drawn cards add up)
 
-/*   *You can also play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for groups of five or larger)*
+\*   *You can also play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for groups of five or larger)*
