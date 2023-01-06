@@ -16,7 +16,7 @@
 * When cards are played as an action card, they cannot be picked up from the discard pile, the following player has to pick from the deck.
 
 * If you have 7 or fewer points at the beginning of your round, you can call "Kumbal". If you indeed have the fewest amount of points in hand, you win and get 0 penalty points, the rest gets the amount of penalty points held in hand. 
-    * If another player has fewer points than the player who calls Kumbal, the one who called Kumbal gets the amount of points in hand plus 25 penalty points. 
+    * If another player has the same amount, or fewer points than the player who calls Kumbal, the one who called Kumbal gets the amount of points in hand plus 25 penalty points. 
 
 * At the end of each round, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points.
