@@ -5,9 +5,13 @@
 * The objective is to discard as many points as possible and end up with 7 or fewer points in your hand.
     * Points: joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
 
-* Every turn you first discard, then you draw the top card from the deck.
+* Every turn you has two steps
+   * first discard, 
+   * last draw a card.
+      * You are also allowed to pick the top card from the discard pile (not the case for jokers, they are lost when played). 
+   * if you wish to call kumbal, this must be done at the start of your turn (not after discarding a card)
+   * special cases:
     * if you draw a card from the deck that is the same as the one you just discarded, you can discard it 'for free' as long as the next person hasn't played their turn yet (this speeds things up).
-    * You are also allowed to pick the top card from the discard pile (not the case for jokers, they are lost when played). 
 
 * You can discard two or more of the same value (doubles, triples, etc: ♣️9 + ♥️9 + ...).
 
