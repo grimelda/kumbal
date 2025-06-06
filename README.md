@@ -25,7 +25,7 @@ The goal of _the game_ is to maintain as few penalty points as possible. The _ga
 * If,  at the beginning of your turn,  you have 7 or fewer points in your hand you may call "Kumbal". If you indeed have the fewest amount of points in hand after counting all hands, you win and get 0 penalty points, the rest gets the amount of penalty points held in hand. 
     * If another player has the same amount, or fewer points than the player who calls Kumbal, the one who called Kumbal gets the amount of points in hand plus 25 penalty points. 
 
-* At the end of each round, all players scores are recorded and added up.
+* At the end of each round, when KUMBALL has been called, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points (or you can continue to 200 or 500 for longer games)
 
 # Additional game tweaks
