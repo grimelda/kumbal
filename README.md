@@ -6,6 +6,7 @@
     * Penalty points: card value, i.e. joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
 * The _round_ ends when somebody calls "KUMBAL", the points are counted and added to those of the previous round
 * The _game_ ends after a few _rounds_ when the loser is the first to cross 100 penalty points. The winner is the player with the fewest points.
+
 **Player turn**
    * 1. Start by discarding from your hand
    * 2. End your turn by drawing a card from the deck or the top-facing card from the discard pile.
