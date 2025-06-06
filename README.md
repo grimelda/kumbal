@@ -5,7 +5,7 @@
 * The objective of the _round_ is to discard as many penalty points (card value) as possible and end up with 7 or fewer points in your hand.
     * Penalty points: card value, i.e. joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
 * The _round_ ends when somebody calls "KUMBAL", the points are counted and added to those of the previous round
-* The _game_ ends when the loser is the first to cross 100 penalty points. The winner is the player with the fewest points. You can also continue for longer.
+* The _game_ ends after a few _rounds_ when the loser is the first to cross 100 penalty points. The winner is the player with the fewest points. You can also continue for longer.
 
 **Player turn**
    * 1. Start by discarding from your hand
