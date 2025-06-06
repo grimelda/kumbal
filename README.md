@@ -1,22 +1,24 @@
 # KUMBAL card game rules and gameplay ♣️♦️♠️♥️
 
 # Gameplay
+The goal of _the game_ is to maintain as few penalty points as possible. The _game_ ends after a few _rounds_ when the loser is the first to cross 100 penalty points. The winner is the player with the fewest points.
+
 ## Rounds
 * At the start of each _round_, each player gets 7 cards from the deck, and to start the game, the top card on the deck is placed face up on the discard pile.
 * The objective of the _round_ is to discard as many penalty points (card value) as possible and end up with 7 or fewer points in your hand.
     * Penalty points: card value, i.e. joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
 * The _round_ ends when somebody calls "KUMBAL", the points are counted and added to those of the previous round
-* The _game_ ends after a few _rounds_ when the loser is the first to cross 100 penalty points. The winner is the player with the fewest points.
 
 ## Player turn
 1. Start by discarding from your hand
 2. End your turn by drawing a card from the deck or the top-facing card from the discard pile.
 
 **Discarding cards**
-* You can discard _two or more of the same value_ (doubles, triples, etc e.g. ♣️9 + ♥️9...).
-* You can discard a series of _three or more in the same suit_ (♣️4, ♣️5, ♣️6, ...)
-   * Jokers can be played as another card (but cannot be picked up from the discard pile by next player, similar to action cards)
-* Jokers and action cards cannot be picked up from the discard pile; they are lost when played
+* You by default only discard one card, unless you can:
+  * You can discard _two or more of the same value_ (doubles, triples, etc e.g. ♣️9 + ♥️9...).
+  * You can discard a series of _three or more in the same suit_ (♣️4, ♣️5, ♣️6, ...)
+     * Jokers can be played as another card (but cannot be picked up from the discard pile by next player, similar to action cards)
+  * Jokers and action cards cannot be drawn from the discard pile; they are lost when played.
 
 
 **Winning a round** 
