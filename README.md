@@ -28,26 +28,18 @@ The goal of _the game_ is to maintain as few penalty points as possible. The _ga
 * At the end of each round, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points (or you can continue to 200 or 500 for longer games)
 
-**Action cards**
-* When cards are played as an action card, they cannot be picked up from the discard pile, the following player has to pick from the deck.
-   * Action cards:
-      * 8: wait, next player in turn is skipped
-      * 7: reverses play direction
-      * pick up cards:
-         * joker: next in play must pick up 5 cards
-         * 2: next in play must pick up 2 cards
-         * you don't have to pick up cards if you can play your own pick up card
-
-**Additional game tweaks**
+# Additional game tweaks
 *  _Free Discards_ (speeds things up): if you draw a card from the deck that has the same value as the top-facing card on the discard pile, you can discard it 'for free' as long as the next person hasn't played their turn yet.
 * _Cutting The Deck_ (speeds things up): To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead. Highly recommended as it adds predictability to drawn cards.
 * _Lower the Goal_ (5 instead of 7): You can choose to play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for larger groups of more than five players)
 * _Action cards_: Special "action" cards have additional powers (note this is not recommended by the Kumball OG 'A' or the Peruvian girls who taught him) : 
    * 8: next person is skipped
    * 7: reverse playing direction
-   * 2: next person to pick 2
-   * joker: next person to pick 5
-      * instead of picking up cards one can play a 2 or joker, in which case the number of cards to be picked up by the next player increases in kind
+   * pick up cards:
+      * 2: next person to pick 2
+      * joker: next person to pick 5
+         * to avoid having to pick up cards- a player can play their own pickup cards, in which case the number of cards to be picked up by the next player increases in kind
+   * NOTE: When cards are played as an action card, they cannot be picked up from the discard pile, the following player has to pick from the deck.
 * _The 49-Rule_
    * If a player's score reaches any 'multiple of 50 minus one', their score is reduced by 49 points.
       * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
