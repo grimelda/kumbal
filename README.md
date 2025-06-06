@@ -14,7 +14,7 @@
 **Discarding cards**
 * You can discard _two or more of the same value_ (doubles, triples, etc e.g. ♣️9 + ♥️9...).
 * You can discard a series of _three or more in the same suit_ (♣️4, ♣️5, ♣️6, ...)
-   * joker can be played as another card (but cannot be picked up from the discard pile by next player, similar to action cards)
+   * Jokers can be played as another card (but cannot be picked up from the discard pile by next player, similar to action cards)
 * Jokers and action cards cannot be picked up from the discard pile; they are lost when played
 
 
