@@ -1,7 +1,7 @@
 # KUMBAL card game rules and gameplay ♣️♦️♠️♥️
 
 **Gameplay**
-* At the start of each _round_, each player gets 7\* cards from the deck, and to start the game, the top card on the deck is placed face up on the discard pile.
+* At the start of each _round_, each player gets 7 cards from the deck, and to start the game, the top card on the deck is placed face up on the discard pile.
 * The objective of the _round_ is to discard as many penalty points (card value) as possible and end up with 7 or fewer points in your hand.
     * Penalty points: card value, i.e. joker=0, A=1, 2=2, ..., 9=9, 10=10, J=11, Q=12, K=13
 * The _round_ ends when somebody calls "KUMBAL", the points are counted and added to those of the previous round
