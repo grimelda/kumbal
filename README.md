@@ -43,9 +43,9 @@
    * joker: next person to pick 5
       * instead of picking up cards one can play a 2 or joker, in which case the number of cards to be picked up by the next player increases in kind
 * _The 49-Rule_
- * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0.
+ * If a player's score reaches any 'multiple of 50 minus one', their score is reduced by 49 points.
     * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
-    * This increments for every 'multiple of 50 minus one' (i.e. 49, 99, 149, 199, 249, 299...) 
+    * This increments for every  (i.e. 49, 99, 149, 199, 249, 299...) 
     * side note: it is theoretically possible to reach 99 points which would reduce your tally by -49 to a total of 50; if then you would lose the following round with a single joker in hand (-1 point) your new tally would total 49 points, which would reduce your tally all the way back to zero points. Whether this situation has actually been achieved remains hearsay.
 
 
