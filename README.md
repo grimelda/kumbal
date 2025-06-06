@@ -45,4 +45,4 @@
    * joker: next person to pick 5
       * instead of picking up cards one can play a 2 or joker, in which case the number of cards to be picked up by the next player increases in kind
 
-\*   *You can also play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for groups of five or larger)*
+\*   *You can choose to play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for larger groups of more than five players)*
