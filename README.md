@@ -8,14 +8,15 @@
 * The _game_ ends when the loser is the first to cross 100 penalty points. The winner is the player with the fewest points. You can also continue for longer.
 
 **Player turn**
-   * 1. First discard from your hand, 
-   * 2. Finish your turn by drawing a card from the deck or the top-facing card from the discard pile.
-      * Jokers and action cards cannot be picked up from the discard pile; they are lost when played
+   * 1. Start by discarding from your hand
+   * 2. End your turn by drawing a card from the deck or the top-facing card from the discard pile.
 
 **Discarding cards**
 * You can discard _two or more of the same value_ (doubles, triples, etc e.g. ♣️9 + ♥️9...).
 * You can discard a series of _three or more in the same suit_ (♣️4, ♣️5, ♣️6, ...)
    * joker can be played as another card (but cannot be picked up from the discard pile by next player, similar to action cards)
+* Jokers and action cards cannot be picked up from the discard pile; they are lost when played
+
 
 **Winning a round** 
 * If,  at the beginning of your turn,  you have 7 or fewer points in your hand you may call "Kumbal". If you indeed have the fewest amount of points in hand after counting all hands, you win and get 0 penalty points, the rest gets the amount of penalty points held in hand. 
