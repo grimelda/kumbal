@@ -1,4 +1,4 @@
-# kumbal card game rules and gameplay ♣️♦️♠️♥️
+# KUMBAL card game rules and gameplay ♣️♦️♠️♥️
 
 * Each player gets 7\* cards from the deck at the beginning of the game, and to start the game the top card on the deck is placed face up on the discard pile.
 
