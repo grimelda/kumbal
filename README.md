@@ -33,6 +33,7 @@
       * pick up cards:
          * joker: next in play must pick up 5 cards
          * 2: next in play must pick up 2 cards
+         * you don't have to pick up cards if you can play your own pick up card
 
 **Additional game tweaks**
 *  _Free Discards_ (speeds things up): if you draw a card from the deck that has the same value as the top-facing card on the discard pile, you can discard it 'for free' as long as the next person hasn't played their turn yet.
