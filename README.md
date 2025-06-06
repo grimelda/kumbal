@@ -32,7 +32,7 @@ The goal of _the game_ is to maintain as few penalty points as possible. The _ga
 *  _Free Discards_ (speeds things up): if you draw a card from the deck that has the same value as the top-facing card on the discard pile, you can discard it 'for free' as long as the next person hasn't played their turn yet.
 * _Cutting The Deck_ (speeds things up): To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead. Highly recommended as it adds predictability to drawn cards.
 * _Lower the Goal_ (5 instead of 7): You can choose to play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for larger groups of more than five players)
-* _Action cards_: Special "action" cards have additional powers (note this is not recommended by the Kumball OG 'A' or the Peruvian girls who taught him) : 
+* _Action cards_: Special "action" cards have additional powers (note this is not recommended by the Kumball OG 'Andres' or the Peruvian girls who taught him) : 
    * 8: next person is skipped
    * 7: reverse playing direction
    * pick up cards:
