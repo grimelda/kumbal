@@ -23,10 +23,6 @@
 
 * At the end of each round, all players scores are recorded and added up.
     * The game ends when one person's penalty score surpasses 100 points (or you can continue to 200 or 500 for longer games)
-    * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0.
-    * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
-    * This increments for 149, 199, 249, 299 points etc each get reduced by 29 points. 
-    * side note: it is theoretically possible to get to 99 points, have your number of points reduced by 49 to 50, lose the following round with a single joker in hand (-1 point) and then achieve 49 points, which brings you back to zero points. Whether this situation has actually been achieved remains hearsay.
 
 **Action cards**
 * When cards are played as an action card, they cannot be picked up from the discard pile, the following player has to pick from the deck.
@@ -46,6 +42,12 @@
       * instead of picking up cards one can play a 2 or joker, in which case the number of cards to be picked up by the next player increases in kind
 *  Free Discards (speeds things up): if you draw a card from the deck that has the same value as the top-facing card on the discard pile, you can discard it 'for free' as long as the next person hasn't played their turn yet.
 * Cutting the deck (speeds things up): To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead. Highly recommended as it adds predictability to drawn cards.
+* The 49-Rule:
+ * If a player's score reaches 49 points exactly, their score is reduced by 49 points to 0.
+    * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
+    * This increments for every 'multiple of 50 minus one' (i.e. 49, 99, 149, 199, 249, 299...) 
+    * side note: it is theoretically possible to reach 99 points which would reduce your tally by -49 to a total of 50; if then you would lose the following round with a single joker in hand (-1 point) your new tally would total 49 points, which would reduce your tally all the way back to zero points. Whether this situation has actually been achieved remains hearsay.
+
 
 
 \*   *You can choose to play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for larger groups of more than five players)*
