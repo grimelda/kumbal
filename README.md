@@ -48,7 +48,3 @@
       * If a player's score reaches 99 points exactly, their score is reduced by 49 points to 50.
       * This increments for every  (i.e. 49, 99, 149, 199, 249, 299...) 
       * side note: it is theoretically possible to reach 99 points which would reduce your tally by -49 to a total of 50; if then you would lose the following round with a single joker in hand (-1 point) your new tally would total 49 points, which would reduce your tally all the way back to zero points. Whether this situation has actually been achieved remains hearsay.
-
-
-
-\*   
