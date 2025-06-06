@@ -7,13 +7,10 @@
 * The _round_ ends when somebody calls "KUMBAL", the points are counted and added to those of the previous round
 * The _game_ ends when the loser is the first to cross 100 points. The winner is the player with the fewest points. You can also continue for longer.
 
-**Every player turn has two steps**
-   * First discard one card from your hand, 
-   * Finish your turn by drawing a card from the deck or the top facing card from the discard pile.
-      * Jokers and action cards cannot be picked up from the discard pile, they are lost when played
-   * If you wish to call kumbal, this must be done at the start of your turn (not after discarding a card)
-   * special cases:
-      * if you draw a card from the deck that has the same value as the top-facing card on the discard pile, you can discard it 'for free' as long as the next person hasn't played their turn yet (this speeds things up).
+**Player turn**
+   * 1. First discard from your hand, 
+   * 2. Finish your turn by drawing a card from the deck or the top-facing card from the discard pile.
+      * Jokers and action cards cannot be picked up from the discard pile; they are lost when played
 
 **Discarding cards**
 * You can discard _two or more of the same value_ (doubles, triples, etc e.g. ♣️9 + ♥️9...).
@@ -47,7 +44,8 @@
    * 2: next person to pick 2
    * joker: next person to pick 5
       * instead of picking up cards one can play a 2 or joker, in which case the number of cards to be picked up by the next player increases in kind
-* To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead. Highly recommended as it adds predictability to drawn cards.
+*  Free Discards (speeds things up): if you draw a card from the deck that has the same value as the top-facing card on the discard pile, you can discard it 'for free' as long as the next person hasn't played their turn yet.
+* Cutting the deck (speeds things up): To speed up the game even more, instead of shuffling the deck between rounds, the deck can be 'cut' instead. Highly recommended as it adds predictability to drawn cards.
 
 
 \*   *You can choose to play with 5 cards in hand with a goal of 5 points or fewer, to make the game faster (recommended for larger groups of more than five players)*
